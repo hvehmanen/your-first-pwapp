@@ -1,3 +1,5 @@
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
